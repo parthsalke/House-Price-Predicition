@@ -4,7 +4,7 @@ I have implemented a Bangalore House Price Prediction model using a Machine Lear
 This model predicts the price of Bangalore's house with the help of a few parameters like availability, size, total square feet, bath, location, etc.
 
  It's a Machine Learning model which integrates Data Science and Web Development. 
- I have deployed the app on the Google Cloud Application Platform.
+ I have deployed the app on the Google Cloud Application Platform by creating a Bucket.
  
  -> The Tools used were:
 1. Anaconda
